@@ -31,3 +31,7 @@ npx tailwindcss -i ./public/css/input.css -o ./public/css/tailwind.css --watch -
 - essayer form ajout en pop up
 - nav desktop
 - date d'achat en bas dans le form ,car non obligatoire
+
+
+
+- VISUEL du BTN retour dans un cellier pour retourner aux CELLIERS
